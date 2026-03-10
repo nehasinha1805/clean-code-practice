@@ -3,6 +3,7 @@ package main.java.chapter2;
 public class MeaningfulContextExample {
 
     private void printGuessStatistics(char candidate, int count) {
+        // variables with unclear context
         String number;
         String verb;
         String pluralModifier;
